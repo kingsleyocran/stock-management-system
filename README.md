@@ -33,7 +33,7 @@ Detailed installation and usage instructions can be found in the respective READ
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/stock-management-app.git
+   git clone https://github.com/kingsleyocran/stock-management-system.git
    cd stock-management-app
    ```
 
